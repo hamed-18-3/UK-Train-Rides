@@ -1,3 +1,4 @@
+# 🚆 UK Train Rides – Data Analysis & Forecasting
 
 ## 👥 Team Members
 - Hamed Abdelaziz --> Lead Data Scientist / Project Manager
@@ -13,7 +14,6 @@
 - Forecasting results & visualizations
 - Tableau dashboard
 - Final report & presentation
-# 🚆 UK Train Rides – Data Analysis & Forecasting
 
 ## 📌 Project Description
 This project focuses on analyzing and forecasting UK Train Rides data.  
