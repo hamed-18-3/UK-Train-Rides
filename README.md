@@ -1,2 +1,32 @@
-# UK-Train-Rides
-Data analysis and forecasting project on UK Train Rides. Includes data preprocessing, analysis, forecasting (rides, revenue, ticket demand), and visualization dashboard using Python, SQL, and Tableau.
+
+## 👥 Team Members
+- Hamed Abdelaziz --> Lead Data Scientist / Project Manager
+- Ahmed Sayed --> Data Engineer (Collection & Preprocessing)
+- Amira Reda --> Database & Analytics Support
+- Ethar Mostafa --> BI Developer (Dashboard & Presentation)
+- Shahd Mohamed --> Data Analyst (Visualization & Insights)
+- Mohamed Saber --> Data Analyst (Exploratory Analysis)
+
+## 📊 Deliverables
+- Cleaned dataset
+- Analysis notebooks
+- Forecasting results & visualizations
+- Tableau dashboard
+- Final report & presentation
+# 🚆 UK Train Rides – Data Analysis & Forecasting
+
+## 📌 Project Description
+This project focuses on analyzing and forecasting UK Train Rides data.  
+It includes:
+- Data cleaning & preprocessing
+- Exploratory data analysis
+- Forecasting rides, revenue, and ticket demand
+- Visualization dashboard with Tableau
+- Final project report
+
+## 🛠️ Tech Stack
+- Python (pandas, matplotlib, scikit-learn)
+- SQL
+- Tableau
+
+## 📂 Project Structure
