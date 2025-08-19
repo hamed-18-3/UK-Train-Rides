@@ -1,7 +1,7 @@
 # 🚆 UK Train Rides – Data Analysis & Forecasting
 
 ## 📂 Project Structure
-## 👥 Team Members
+# 👥 Team Members
 - Hamed Abdelaziz --> Lead Data Scientist / Project Manager
 - Ahmed Sayed --> Data Engineer (Collection & Preprocessing)
 - Amira Reda --> Database & Analytics Support
