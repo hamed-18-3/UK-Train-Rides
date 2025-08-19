@@ -9,7 +9,7 @@
 - Shahd Mohamed --> Data Analyst (Visualization & Insights)
 - Mohamed Saber --> Data Analyst (Exploratory Analysis)
 
-## 📊 Deliverables
+# 📊 Deliverables
 - Cleaned dataset
 - Analysis notebooks
 - Forecasting results & visualizations
