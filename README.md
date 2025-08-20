@@ -25,6 +25,8 @@ It includes:
 - Visualization dashboard with Tableau
 - Final project report
 
+## Raw Data
+https://drive.google.com/drive/folders/10qkQ_meaAc-xPzfNngZDwpeieyj3tDBh?usp=drive_link
 ## 🛠️ Tech Stack
 - Python (pandas, matplotlib, scikit-learn)
 - SQL
