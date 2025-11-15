@@ -2,7 +2,7 @@
 
 ## 📂 Project Structure
 # 👥 Team Members
-- Hamed Abdelaziz --> Lead Data Scientist / Project Manager
+- Hamed Abdelaziz --> Lead Data Scientist,Data model, Cleaning and visualization / Project Manager
 - Ahmed Sayed --> Data Engineer (Collection & Preprocessing)
 - Amira Reda --> Database & Analytics Support
 - Ethar Mostafa --> BI Developer (Dashboard & Presentation)
@@ -13,8 +13,8 @@
 - Cleaned dataset
 - Analysis notebooks
 - Forecasting results & visualizations
-- Tableau dashboard
-- Final report & presentation
+- Power BI dashboard
+- Final report & presentation : https://app.powerbi.com/groups/me/reports/91d9fb2d-a3f5-4624-9878-21c8138f7617/ec6302c5f3cdced17bed?experience=power-bi&bookmarkGuid=0cf3346fe06b4972597a
 
 ## 📌 Project Description
 This project focuses on analyzing and forecasting UK Train Rides data.  
@@ -28,7 +28,8 @@ It includes:
 ## Raw Data
 https://drive.google.com/drive/folders/10qkQ_meaAc-xPzfNngZDwpeieyj3tDBh?usp=drive_link
 ## 🛠️ Tech Stack
-- Python (pandas, matplotlib, scikit-learn)
+- Python - Pandas
 - SQL
-- Tableau
+- Power BI
+- Excel - Power Query
 
