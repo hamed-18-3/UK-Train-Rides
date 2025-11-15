@@ -14,7 +14,7 @@
 - Analysis notebooks
 - Forecasting results & visualizations
 - Power BI dashboard
-- Final report & presentation : https://app.powerbi.com/groups/me/reports/91d9fb2d-a3f5-4624-9878-21c8138f7617/ec6302c5f3cdced17bed?experience=power-bi&bookmarkGuid=0cf3346fe06b4972597a
+- Final report & presentation
 
 ## 📌 Project Description
 This project focuses on analyzing and forecasting UK Train Rides data.  
